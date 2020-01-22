@@ -124,7 +124,7 @@ public class BaseResidentService implements ResidentService {
 
   public static void setResidentRepository(ResidentRepository residentRepository) {
     residentRepository = residentRepository;
-    System.out.println("Aufg 8 Schritt 8, die Veränderung");
+    System.out.println("Aufg 8 Schritt 8, die Veränderung 2");
   }
    
 }
